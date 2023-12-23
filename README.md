@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer at Code Fusion Infotech.<br>I'm Looking new Oppertunity to growUp my Skill and Knowledge.<br>Mostly working on JavaScript.<br>I'm currently learning advanced React.<br>Ask me about HTML, CSS and JavaScript<br>How to reach me ankitshrivas925@gmail.com<br>
+Front-end Developer at Code Fusion Infotech.<br>I'm Looking new Oppertunity to growUp my Skill and Knowledge.<br>Mostly working on JavaScript.<br>I'm currently learning advanced React.<br>Ask me about javaScript, Jquery, Saas, Bootstrap, HTML, CSS <br>How to reach me mail.ankitshrivas@gmail.com<br>
 
 
 # 💻 Tech Stack:
